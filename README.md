@@ -1,4 +1,3 @@
-# mywebsite
 •	🔗 Project Title: Juliet Jagadeesh – Personal Blog & Portfolio Website
 •	Project Challenge:
 To design and build a fully responsive, creative, and personalized blog website from scratch that reflects individuality, showcases writing styles, and supports multimedia content — all handled by a single developer.
@@ -16,4 +15,3 @@ o	Creative Elements: Color theory, typography, image optimization, personal bran
 •	Conclusion:
 Independently conceptualized, designed, and developed a full-fledged personal blog website, showcasing strong frontend development, UI/UX design, and creative expression
 Github: https://jagadeeshthutukuri.github.io/mywebsite/
-
